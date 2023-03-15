@@ -1,8 +1,8 @@
+-- MS SQL Solution
+
 create table #temp (hi int, na varchar(50), cnt int)
 
 insert into #temp
--- MS SQL Solution
-
 select h.hacker_id hi, h.name na, count(h.name) cnt
 from Hackers h
 inner join Challenges c
