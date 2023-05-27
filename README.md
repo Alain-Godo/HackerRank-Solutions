@@ -8,7 +8,8 @@ Solutions to HackerRank problems, until now, about:
 
 + Python
 + SQL
-+ Regex
++ C++
++ Regex (For the future)
 
 ### Notes
 
