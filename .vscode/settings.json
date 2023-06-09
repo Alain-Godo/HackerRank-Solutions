@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "*.jinja": "jinja",
-        "vector": "cpp"
-    }
-}
