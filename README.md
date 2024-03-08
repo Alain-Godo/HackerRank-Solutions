@@ -1,6 +1,6 @@
 # HackerRank-Solutions
 
-Every day I do some code for fun, and of course... to improve myself and learn something new :smiley:
+Every day ( per year :sweat_smile:) I do some code for fun, and of course... to improve myself and learn something new :smiley:
 
 ## What can you find here?
 
